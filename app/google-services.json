@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126926272765",
+    "firebase_url": "https://smartsocket-7464a-default-rtdb.firebaseio.com",
+    "project_id": "smartsocket-7464a",
+    "storage_bucket": "smartsocket-7464a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126926272765:android:938475b6b247b1c0696694",
+        "android_client_info": {
+          "package_name": "com.example.smartsocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126926272765-i2hc0g9o9aqfmkvm0f7ffhn0ojnfnldo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhZ4CUx4YLXk_EfJp_Yg28MFkjIVD8-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126926272765-i2hc0g9o9aqfmkvm0f7ffhn0ojnfnldo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
